@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+[[# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -62,3 +62,4 @@ RegisterNumber: 24007383 */
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
+](https://github.com/PRAVEENRAJ359/study-of-basic-gates/blob/main/README.md)](https://github.com/PRAVEENRAJ359/study-of-basic-gates/blob/main/README.md)
